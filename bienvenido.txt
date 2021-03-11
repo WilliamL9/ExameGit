@@ -1,1 +1,2 @@
-Hola este es el examen de github desde consola, bienvenido Alvaro!!
+Hola este es el examen de github desde consola, bienvenido Alvaro!
+ESTOY APRENDIENDO A USAR EL GIT
