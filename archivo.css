@@ -11,7 +11,7 @@ body{
     margin: 2rem auto;
     max-width:800px;
     padding:2rem;
-    background:white;
+    background: green;
 }
 .arriba{
     position:fixed;
